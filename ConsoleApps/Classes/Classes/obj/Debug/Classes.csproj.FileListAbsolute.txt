@@ -1,0 +1,6 @@
+D:\Development\Udemy\CSharpIntermediate\ConsoleApps\Classes\Classes\bin\Debug\Classes.exe.config
+D:\Development\Udemy\CSharpIntermediate\ConsoleApps\Classes\Classes\bin\Debug\Classes.exe
+D:\Development\Udemy\CSharpIntermediate\ConsoleApps\Classes\Classes\bin\Debug\Classes.pdb
+D:\Development\Udemy\CSharpIntermediate\ConsoleApps\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+D:\Development\Udemy\CSharpIntermediate\ConsoleApps\Classes\Classes\obj\Debug\Classes.exe
+D:\Development\Udemy\CSharpIntermediate\ConsoleApps\Classes\Classes\obj\Debug\Classes.pdb

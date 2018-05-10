@@ -1,0 +1,1 @@
+D:\Development\Udemy\CSharpIntermediate\ConsoleApps\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
